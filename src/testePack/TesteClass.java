@@ -2,6 +2,6 @@ package testePack;
 
 public class TesteClass {
 	public TesteClass() {
-		int x = 1;
+		int x = 22;
 	}
 }
